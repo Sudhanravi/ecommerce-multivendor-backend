@@ -8,6 +8,6 @@ public class JwtTokenValidator implements Filter {
 
     @Override
     public void doFilter(ServletRequest servletRequest, ServletResponse servletResponse, FilterChain filterChain) throws IOException, ServletException {
-        return null;
+
     }
 }
